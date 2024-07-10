@@ -55,7 +55,7 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["Brandenberger Family Music", "https://www.youtube-nocookie.com/embed/Hq0uudfL97A?list=PLKhwqC0tZdYSJ_nicizxEdmr5lSOMTSpt&autoplay=1&iv_load_policy=3&loop=1&start="],
+  ["MUF", "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"],
   [
     "NL SAT BEWOLKING",
     "https://widgets.meteox.com/nl-NL/widgets/radar/country/nl/satellite",
