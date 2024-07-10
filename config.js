@@ -1,4 +1,4 @@
-const topBarCenterText = `PD1BER - JO22XE`;
+const topBarCenterText = `VA3HDL - FN04ga`;
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/PD1BER", "1.7"],
+  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/VA3HDL", "1.7"],
   [
     "2196F3",
     "CONTEST",
