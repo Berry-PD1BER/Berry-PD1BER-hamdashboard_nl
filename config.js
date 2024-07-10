@@ -55,7 +55,7 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["MY LAST 20 QSO", "https://www.hrdlog.net/hrdlogframe.aspx?user=PD1BER&lastqso=20"],
+  ["MY LAST 20 QSO", "https://pd1ber.wixsite.com/my-last-20-qso"],
   [
     "NL SAT BEWOLKING",
     "https://widgets.meteox.com/nl-NL/widgets/radar/country/nl/satellite",
