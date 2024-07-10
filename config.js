@@ -23,7 +23,7 @@ const aURL = [
     "1",
     "R",
   ],
-  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
+  ["2196F3", "WEER RADAR", "https://www.meteoblue.com/nl/weer/kaarten/widget/gelderland_nederland_2755634?windAnimation=0&windAnimation=1&gust=0&gust=1&satellite=0&satellite=1&cloudsAndPrecipitation=0&cloudsAndPrecipitation=1&temperature=0&temperature=1&sunshine=0&sunshine=1&extremeForecastIndex=0&extremeForecastIndex=1&geoloc=fixed&tempunit=C&windunit=km%252Fh&lengthunit=metric&zoom=5&autowidth=auto#coords=6.5/52.185/5.563&map=satellite~sat~none~none~temperatureObsOverlay", "1.2"],
   [
     "2196F3",
     "RADAR",
