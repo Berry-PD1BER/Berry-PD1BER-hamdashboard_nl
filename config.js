@@ -57,8 +57,8 @@ const aURL = [
 const aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
-    "LOCAL RADAR",
-    "https://www.meteoblue.com/nl/weer/kaarten/apeldoorn_nederland_2759706#map=satellite~sat~none~none~pressure2mOverlay&coords=4/52.18/5.93",
+    "ISS TRACKER",
+    "http://wsn.spaceflight.esa.int/iss/index_portal.php",
   ],
   [
     "NOAA D-RAP",
