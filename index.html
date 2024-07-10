@@ -356,7 +356,10 @@ db   8D Y8b  d8 88 `88.   .88.   88         88    db   8D
       }
     }
 
-    const videoExtensions = [".mp4", ".webm", ".ogg", ".ogv"];
+    const videoExtensions = [".mp4", ".webm", ".ogg", ".ogv", ".mkv", ".flv", ".vob", ".ogv", ".drc", ".gif", ".gifv", 
+			     ".html", ".htm", ".mng", ".avi", ".mts", ".m2ts", ".ts", ".mov", ".qt", ".wmv", ".yuv",
+			     ".rm", ".rmvb", ".viv", ".asf", ".amv", ".m4p", ".m4v", ".mpg", ".mp2", ".mpeg", ".mpe",
+			     "mpv", ".m2v", ".svi", ".3gp", ];
 
     function isVideo(src) {
       return videoExtensions.some((ext) => src.includes(ext));
@@ -366,6 +369,38 @@ db   8D Y8b  d8 88 `88.   .88.   88         88    db   8D
       if (src.includes(".mp4")) return "video/mp4";
       if (src.includes(".webm")) return "video/webm";
       if (src.includes(".ogg") || src.includes(".ogv")) return "video/ogg";
+      if (src.includes(".mkv")) return "video/mkv";
+      if (src.includes(".flv")) return "video/flv";
+      if (src.includes(".vob")) return "video/vob";
+      if (src.includes(".drc")) return "video/drc";
+      if (src.includes(".gif")) return "video/gif";
+      if (src.includes(".gifv")) return "video/gifv";
+      if (src.includes(".html")) return "video/html";
+      if (src.includes(".htm")) return "video/htm";
+      if (src.includes(".mng")) return "video/mng";
+      if (src.includes(".avi")) return "video/avi";
+      if (src.includes(".mts")) return "video/mts";
+      if (src.includes(".m2ts")) return "video/m2ts";
+      if (src.includes(".ts")) return "video/ts";
+      if (src.includes(".mov")) return "video/mov";
+      if (src.includes(".qt")) return "video/qt";
+      if (src.includes(".wmv")) return "video/wmv";
+      if (src.includes(".yuv")) return "video/yuv";
+      if (src.includes(".rm")) return "video/rm";
+      if (src.includes(".rmvb")) return "video/rmvb";
+      if (src.includes(".viv")) return "video/viv";
+      if (src.includes(".asf")) return "video/asf";
+      if (src.includes(".amv")) return "video/amv";
+      if (src.includes(".m4p")) return "video/m4p";
+      if (src.includes(".m4v")) return "video/m4v";
+      if (src.includes(".mpg")) return "video/mpg";
+      if (src.includes(".mp2")) return "video/mp2";
+      if (src.includes(".mpeg")) return "video/mpeg";
+      if (src.includes(".mpe")) return "video/mpe";
+      if (src.includes(".mpv")) return "video/mpv";
+      if (src.includes(".m2v")) return "video/m2v";
+      if (src.includes(".svi")) return "video/svi";
+      if (src.includes(".3gp")) return "video/.3gp";
       return "";
     }
 
