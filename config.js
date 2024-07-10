@@ -55,7 +55,7 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["MUF", "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"],
+  ["TEST", "https://www.buienradar.nl/nederland/neerslag/panorama-radar"],
   [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
