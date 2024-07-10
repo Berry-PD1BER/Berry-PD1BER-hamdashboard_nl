@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
-  ["2196F3", "CLUBLOG", "https://pd1ber.wixsite.com/ham-radio", "1.7"],
+  ["2196F3", "HOME PD1BER WEBSITE ", "https://pd1ber.wixsite.com/ham-radio", "R"],
   
   ["2196F3", "CLUBLOG", "https://clublog.org/livestream/PD1BER", "1.7"],
   [
