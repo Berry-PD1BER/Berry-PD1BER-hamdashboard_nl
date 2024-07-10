@@ -55,7 +55,7 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["NL REGENRADAR", "https://widgets.meteox.com/nl-NL/widgets/radar/country/nl/rain"],
+  ["MY LAST 20 QSO", "ttps://www.hrdlog.net/hrdlogframe.aspx?user=PD1BER&lastqso=20&qsomap=&options=viewonair;search;viewbandslots;showmysig;disablelinks;" width="100%" height="500" scrolling="auto"],
   [
     "NL SAT BEWOLKING",
     "https://widgets.meteox.com/nl-NL/widgets/radar/country/nl/satellite",
