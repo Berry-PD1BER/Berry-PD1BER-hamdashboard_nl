@@ -70,8 +70,8 @@ const aIMG = [
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
-    "SATELLITE CAN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
+    "SEISMIC ACTIVITY",
+    "https://ds.iris.edu/seismon/views/eveday_big//imgs/topMap.eveday_big.gif",
   ],
   [
     "SATELLITE CGL",
