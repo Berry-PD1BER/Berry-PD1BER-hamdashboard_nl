@@ -75,8 +75,8 @@ const aIMG = [
     "https://www.mapability.com/ei8ic/maps/CQ_Zones_01.png",
   ],
   [
-    "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "ITU ZONE",
+    "https://www.qsl.net/ei8ic/maps/cq-zone.gif",
   ],
   [
     "LIGHTNING LOCAL",
