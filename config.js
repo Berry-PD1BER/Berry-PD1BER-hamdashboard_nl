@@ -71,8 +71,8 @@ const aIMG = [
     "https://ds.iris.edu/seismon/views/eveday_big//imgs/topMap.eveday_big.gif",
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "CQ ZONE",
+    "https://www.mapability.com/ei8ic/maps/CQ_Zones_01.png",
   ],
   [
     "LIGHTNING",
