@@ -10,14 +10,14 @@ const aURL = [
   ["0dd1a7", "Help", "#", "1"],
   ["2196F3", "HOME_PD1BER", "https://pd1ber.wixsite.com/ham-radio", "1"],
   
-  ["2196F3", "PD1BER_CODEPLUG-SITE", "https://pd1ber.wixsite.com/pd1ber-tv", "1"],
+  ["2196F3", "CODEPLUG-SITE", "https://pd1ber.wixsite.com/pd1ber-tv", "1"],
   [
     "2196F3",
     "RADIO_L.O.V",
     "https://radiolovdelokaleom.wixsite.com/stream",
     "1",
   ],
-  ["2196F3", "DE_HAM_RADIO_KRINGLOOPWINKEL", "https://pd1ber.wixsite.com/ham-radio-kringloop", "1"],
+  ["2196F3", "TE KOOP", "https://pd1ber.wixsite.com/ham-radio-kringloop", "1"],
   [
     "2196F3",
     "LIGHTNING",
