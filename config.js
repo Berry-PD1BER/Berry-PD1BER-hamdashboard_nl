@@ -19,8 +19,8 @@ const aURL = [
   ["2196F3", "TE KOOP", "https://pd1ber.wixsite.com/ham-radio-kringloop", "1"],
   [
     "2196F3",
-    "QRZ.COM",
-    "https://www.qrz.com/db/pd1ber",
+    "HAMQTH.COM",
+    "https://www.hamqth.com/PD1BER",
     "1"],
   ["2196F3", "PISTAR", "http://pi-star.local/", "1"],
   [
