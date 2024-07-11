@@ -54,8 +54,10 @@ const aURL = [
 const aIMG = [
   ["pd1ber logo", "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds"],
   [
-    "ISS TRACKER",
-    "http://wsn.spaceflight.esa.int/iss/index_portal.php",
+    "10M PROPAGATION",
+    "https://img.propagation.dr2w.de/europe/10M/dr2w_animation_10M.gif",
+    "20M PROPAGATION",
+    "https://img.propagation.dr2w.de/europe/20M/dr2w_animation_20M.gif",
   ],
   [
     "NOAA D-RAP",
