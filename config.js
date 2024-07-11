@@ -79,8 +79,8 @@ const aIMG = [
     "https://www.qsl.net/ei8ic/maps/cq-zone.gif",
   ],
   [
-    "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "GRID SQUARE",
+    "https://www.mapability.com/ei8ic/maps/grid-locator.gif",
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
