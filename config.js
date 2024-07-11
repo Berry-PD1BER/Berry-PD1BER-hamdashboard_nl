@@ -76,7 +76,7 @@ const aIMG = [
   ],
   [
     "ITU ZONE",
-    "https://www.qsl.net/ei8ic/maps/cq-zone.gif",
+    "https://www.qsl.net/ei8ic/maps/itu-zone.gif",
   ],
   [
     "GRID SQUARE",
