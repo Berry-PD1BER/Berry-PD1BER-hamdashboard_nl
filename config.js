@@ -57,7 +57,7 @@ const aIMG = [
     "10M 20M 40M BAND PROPAGATION",
     "https://img.propagation.dr2w.de/europe/10M/dr2w_animation_10M.gif",
     "https://img.propagation.dr2w.de/europe/20M/dr2w_animation_20M.gif",
-    "https://img.propagation.dr2w.de/europe/20M/dr2w_animation_40M.gif",
+    "https://img.propagation.dr2w.de/europe/40M/dr2w_animation_40M.gif",
   ],
   [
     "NOAA D-RAP",
