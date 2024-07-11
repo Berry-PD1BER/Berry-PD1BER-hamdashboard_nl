@@ -25,11 +25,9 @@ const aURL = [
   ["2196F3", "QRZCQ.COM", "https://www.qrzcq.com/call/PD1BER", "1"],
   [
     "2196F3",
-    "RADAR",
-    "https://weather.gc.ca/?layers=alert,radar&center=43.39961001,-78.53212031&zoom=6&alertTableFilterProv=ON",
-    "1",
-    "R"
-  ],
+    "MAPFORHAM.COM",
+    "https://www.mapforham.com/om/pd1ber.html",
+    "1"],
   ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
   [
     "2196F3",
