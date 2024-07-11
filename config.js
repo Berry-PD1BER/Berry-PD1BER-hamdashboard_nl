@@ -25,7 +25,7 @@ const aURL = [
   ["2196F3", "QRZCQ.COM", "https://www.qrzcq.com/call/PD1BER", "1"],
   [
     "2196F3",
-    "MAPFORHAM.COM",
+    "MAPFORHAM",
     "https://www.mapforham.com/om/pd1ber.html",
     "1"],
   ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
