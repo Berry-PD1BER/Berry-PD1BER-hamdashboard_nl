@@ -22,7 +22,7 @@ const aURL = [
     "HAMQTH.COM",
     "https://www.hamqth.com/PD1BER",
     "1"],
-  ["2196F3", "PISTAR", "http://pi-star.local/", "1"],
+  ["2196F3", "QRZCQ.COM", "https://www.qrzcq.com/call/PD1BER", "1"],
   [
     "2196F3",
     "RADAR",
