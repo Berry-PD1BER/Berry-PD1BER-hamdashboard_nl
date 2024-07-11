@@ -28,7 +28,7 @@ const aURL = [
     "MAPFORHAM",
     "https://www.mapforham.com/om/pd1ber.html",
     "1"],
-  ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
+  ["2196F3", "FACEBOOK", "https://www.facebook.com/pd1ber/", "1"],
   [
     "2196F3",
     "WEATHER",
