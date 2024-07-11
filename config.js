@@ -25,7 +25,7 @@ const aURL = [
     "1",
     "R",
   ],
-  ["2196F3", "HOME_PD1BER", "https://pd1ber.wixsite.com/ham-radio", "1"],
+  ["2196F3", "HOME PD1BER", "https://pd1ber.wixsite.com/ham-radio", "1"],
   [
     "2196F3",
     "RADAR",
