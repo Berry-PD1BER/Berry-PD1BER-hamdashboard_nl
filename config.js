@@ -39,7 +39,7 @@ const aURL = [
   [
     "2196F3",
     "WINDS",
-    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-78.79,44.09,3000",
+    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-353.15,51.55,3308/loc=5.931,52.188",
     "1",
     "R",
   ],
