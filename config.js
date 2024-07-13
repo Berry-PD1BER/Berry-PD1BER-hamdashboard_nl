@@ -82,10 +82,23 @@ const aIMG = [
   [
     "ITU ZONE",
     "https://www.qsl.net/ei8ic/maps/itu-zone.gif",
+    "https://www.mapability.com/ei8ic/maps/ITU_Zones_ARRL_05.png",
+    "https://www.mapability.com/ei8ic/maps/ITU_Zones_ARRL_03.png",
+    "https://www.mapability.com/ei8ic/maps/ITU_Zones_ARRL_07.png",
   ],
   [
     "GRID SQUARE",
     "https://www.mapability.com/ei8ic/maps/grid-locator.gif",
+    "https://www.mapability.com/ei8ic/maps/grid_locator_world_1000x500.png",
+    "https://www.mapability.com/ei8ic/maps/grid_locator_great_gircle_washington.png",
+    "https://www.mapability.com/ei8ic/maps/grid_locator_orthographic_washington.png",
+  ],
+  [
+    "GRID SQUARE",
+    "https://www.mapability.com/ei8ic/maps/grid-locator.gif",
+    "https://www.mapability.com/ei8ic/maps/grid_locator_world_1000x500.png",
+    "https://www.mapability.com/ei8ic/maps/grid_locator_great_gircle_washington.png",
+    "https://www.mapability.com/ei8ic/maps/grid_locator_orthographic_washington.png",
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
