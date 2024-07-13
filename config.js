@@ -74,7 +74,10 @@ const aIMG = [
   ],
   [
     "CQ ZONE",
+    "https://www.mapability.com/ei8ic/maps/cq-zone_4000px.gif",
     "https://www.mapability.com/ei8ic/maps/CQ_Zones_01.png",
+    "https://www.mapability.com/ei8ic/maps/CQ_Zones_03.png",
+    "https://www.mapability.com/ei8ic/maps/CQ_Zones_07.png",
   ],
   [
     "ITU ZONE",
