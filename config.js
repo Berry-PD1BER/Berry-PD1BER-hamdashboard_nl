@@ -52,10 +52,15 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["PREFIX MAPS", "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds"
+  ["PREFIX MAPS", "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   "https://www.mapability.com/ei8ic/maps/prefix/maps/africa.gif",
   "https://www.mapability.com/ei8ic/maps/prefix/maps/asia.gif",
   "https://www.mapability.com/ei8ic/maps/prefix/maps/europe.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/north_america.gif",
+  "https://www.mapability.com/ei8ic/maps/USA_Call_Areas_1652.png",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/oceania.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/south_america.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/antarctica.gif",
   
   ],
   [
