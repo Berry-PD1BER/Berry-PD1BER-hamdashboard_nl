@@ -52,7 +52,16 @@ const aURL = [
 // You can't add more items because there are only 12 placeholders on the dashboard
 // but you can replace the titles and the images with anything you want.
 const aIMG = [
-  ["pd1ber logo", "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds"],
+  ["PREFIX MAPS", "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds"
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/africa.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/asia.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/europe.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/north_america.gif",
+  "https://www.mapability.com/ei8ic/maps/USA_Call_Areas_1652.png",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/oceania.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/south_america.gif",
+  "https://www.mapability.com/ei8ic/maps/prefix/maps/antarctica.gif",
+  ],
   [
     "10M 20M 40M BAND DX",
     "https://img.propagation.dr2w.de/europe/10M/dr2w_animation_10M.gif",
@@ -93,18 +102,13 @@ const aIMG = [
     "https://www.mapability.com/ei8ic/maps/grid_locator_great_gircle_washington.png",
     "https://www.mapability.com/ei8ic/maps/grid_locator_orthographic_washington.png",
   ],
-  [
-    "GRID SQUARE",
-    "https://www.mapability.com/ei8ic/maps/grid-locator.gif",
-    "https://www.mapability.com/ei8ic/maps/grid_locator_world_1000x500.png",
-    "https://www.mapability.com/ei8ic/maps/grid_locator_great_gircle_washington.png",
-    "https://www.mapability.com/ei8ic/maps/grid_locator_orthographic_washington.png",
-  ],
+  
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
     "MUF",
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"],
   ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
+  
   ["HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
