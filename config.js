@@ -38,6 +38,13 @@ const aURL = [
   ],
   [
     "2196F3",
+    "BUIEN ALARM",
+    "https://www.buienalarm.nl/nederland/ugchelen/19259",
+    "1",
+    "R",
+  ],
+  [
+    "2196F3",
     "WINDS",
     "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-353.15,51.55,3308/loc=5.931,52.188",
     "1",
