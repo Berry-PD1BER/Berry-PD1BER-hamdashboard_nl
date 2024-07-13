@@ -38,8 +38,8 @@ const aURL = [
   ],
   [
     "2196F3",
-    "BUIEN RADAR",
-    "https://www.buienradar.nl/weer/ugchelen/nl/2745997/actueel",
+    "weer plaza",
+    "https://www.weerplaza.nl/regenradar/ugchelen/19259/",
     "1",
     "R",
   ],
