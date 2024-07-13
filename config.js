@@ -56,11 +56,7 @@ const aIMG = [
   "https://www.mapability.com/ei8ic/maps/prefix/maps/africa.gif",
   "https://www.mapability.com/ei8ic/maps/prefix/maps/asia.gif",
   "https://www.mapability.com/ei8ic/maps/prefix/maps/europe.gif",
-  "https://www.mapability.com/ei8ic/maps/prefix/maps/north_america.gif",
-  "https://www.mapability.com/ei8ic/maps/USA_Call_Areas_1652.png",
-  "https://www.mapability.com/ei8ic/maps/prefix/maps/oceania.gif",
-  "https://www.mapability.com/ei8ic/maps/prefix/maps/south_america.gif",
-  "https://www.mapability.com/ei8ic/maps/prefix/maps/antarctica.gif",
+  
   ],
   [
     "10M 20M 40M BAND DX",
