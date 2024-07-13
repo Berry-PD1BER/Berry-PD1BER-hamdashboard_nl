@@ -1,4 +1,4 @@
-const topBarCenterText = `PD1BER - JO22xe15`;
+const topBarCenterText = `Berry de PD1BER - JO22xe15`;
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
