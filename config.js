@@ -143,13 +143,14 @@ const aIMG = [
    "HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
-  "https://www.hamqsl.com/solarpich.php"],
-  "https://www.hamqsl.com/solarsun.php"],
-  "https://www.hamqsl.com/solarmuf.php"],
-  "https://www.hamqsl.com/solarmap.php"],
-  "https://www.hamqsl.com/solarglobe.php"],
-  "https://www.hamqsl.com/moonglobe.php"],
-  "https://www.hamqsl.com/solarsystem.php"],
+  "https://www.hamqsl.com/solarpich.php",
+  "https://www.hamqsl.com/solarsun.php",
+  "https://www.hamqsl.com/solarmuf.php",
+  "https://www.hamqsl.com/solarmap.php",
+  "https://www.hamqsl.com/solarglobe.php",
+  "https://www.hamqsl.com/moonglobe.php",
+  "https://www.hamqsl.com/solarsystem.php",
+  ],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
