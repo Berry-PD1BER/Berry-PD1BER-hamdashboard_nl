@@ -135,13 +135,20 @@ const aIMG = [
     "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
   ],
   [
-    "10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
+    "10M PROPAGATION", 
+    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
   ],
   
   ["HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
   "https://www.hamqsl.com/solarpich.php"],
+  "https://www.hamqsl.com/solarsun.php"],
+  "https://www.hamqsl.com/solarmuf.php"],
+  "https://www.hamqsl.com/solarmap.php"],
+  "https://www.hamqsl.com/solarglobe.php"],
+  "https://www.hamqsl.com/moonglobe.php"],
+  "https://www.hamqsl.com/solarsystem.php"],
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
