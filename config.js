@@ -45,7 +45,7 @@ const aURL = [
   ],
    [
     "2196F3",
-    "SONDEHUB AMATEUR",
+    "AMATEUR.SONDEHUB",
     "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=1h&mc=52.1874,5.95459/",
     "1",
     "R",
