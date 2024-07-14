@@ -139,7 +139,8 @@ const aIMG = [
     "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
   ],
   
-  ["HF PROPAGATION",
+  [
+   "HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
   "https://www.hamqsl.com/solarpich.php"],
