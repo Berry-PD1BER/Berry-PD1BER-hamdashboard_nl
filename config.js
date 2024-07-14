@@ -125,11 +125,18 @@ const aIMG = [
     "https://www.mapability.com/ei8ic/maps/grid_locator_orthographic_washington.png",
   ],
   
-  ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
-    "MUF",
-    "https://prop.kc2g.com/renders/current/mufd-normal-now.svg"],
-  ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
+    "GREY LINE",
+    "https://www.timeanddate.com/scripts/sunmap.php?iso=now"
+  ],
+  [
+    "MUF", "FOF2"
+    "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
+    "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
+  ],
+  [
+    "10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
+  ],
   
   ["HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
