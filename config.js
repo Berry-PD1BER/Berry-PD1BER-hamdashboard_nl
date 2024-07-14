@@ -130,8 +130,9 @@ const aIMG = [
     "https://www.timeanddate.com/scripts/sunmap.php?iso=now"
   ],
   [
-    "MUF" "FOF2",
+    "MUF",
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
+    "FOF2",
     "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
   ],
   [
