@@ -36,6 +36,20 @@ const aURL = [
     "1",
     "R",
   ],
+   [
+    "2196F3",
+    "SONDEHUB.ORG",
+    "https://sondehub.org/#!mt=Mapnik&mz=5&qm=0&mc=52.1874,5.91064",
+    "1",
+    "R",
+  ],
+   [
+    "2196F3",
+    "SONDEHUB AMATEUR",
+    "https://amateur.sondehub.org/#!mt=Mapnik&mz=5&qm=1h&mc=52.1874,5.95459/",
+    "1",
+    "R",
+  ],
   [
     "2196F3",
     "weer plaza",
