@@ -33,7 +33,7 @@ const aURL = [
     "2196F3",
     "AGENDA",
     "http://pd1ber.social-networking.me/preview.php",
-    "1",
+    "R",
     "R",
   ],
   [
