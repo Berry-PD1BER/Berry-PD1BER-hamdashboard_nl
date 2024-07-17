@@ -31,8 +31,8 @@ const aURL = [
   ["2196F3", "FACEBOOK", "https://www.facebook.com/pd1ber/", "1"],
   [
     "2196F3",
-    "WAVELOG",
-    "http://pd1ber.liveblog365.com/PD1BER_Wavelog/index.php/logbook/",
+    "AGENDA",
+    "http://pd1ber.social-networking.me/preview.php",
     "1",
     "R",
   ],
