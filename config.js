@@ -136,8 +136,8 @@ const aIMG = [
   
   [
     "GREY LINE",
-    "https://www.timeanddate.com/scripts/sunmap.php?iso=now"
-    "https://www.timeanddate.com/scripts/sunmap.php?iso=now"
+    "https://www.timeanddate.com/scripts/sunmap.php?iso=now",
+    "https://www.timeanddate.com/scripts/sunmap.php?iso=now",
   ],
   [
     "MUF / FOF2",
@@ -146,8 +146,8 @@ const aIMG = [
   ],
   [
     "10M PROPAGATION", 
-    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
-    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
+    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG",
+    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG",
   ],
   
   [
