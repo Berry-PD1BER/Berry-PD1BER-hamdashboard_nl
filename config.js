@@ -100,6 +100,7 @@ const aIMG = [
   [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
   ],
   [
     "ISS & RS-44 POSITION",
@@ -108,6 +109,7 @@ const aIMG = [
   ],
   [
     "SEISMIC ACTIVITY",
+    "https://ds.iris.edu/seismon/views/eveday_big//imgs/topMap.eveday_big.gif",
     "https://ds.iris.edu/seismon/views/eveday_big//imgs/topMap.eveday_big.gif",
   ],
   [
@@ -135,6 +137,7 @@ const aIMG = [
   [
     "GREY LINE",
     "https://www.timeanddate.com/scripts/sunmap.php?iso=now"
+    "https://www.timeanddate.com/scripts/sunmap.php?iso=now"
   ],
   [
     "MUF / FOF2",
@@ -143,6 +146,7 @@ const aIMG = [
   ],
   [
     "10M PROPAGATION", 
+    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
     "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"
   ],
   
