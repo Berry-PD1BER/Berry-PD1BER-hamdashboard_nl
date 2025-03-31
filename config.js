@@ -96,23 +96,19 @@ const aIMG = [
     "https://img.propagation.dr2w.de/europe/10M/dr2w_animation_10M.gif",
     "https://img.propagation.dr2w.de/europe/20M/dr2w_animation_20M.gif",
     "https://img.propagation.dr2w.de/europe/40M/dr2w_animation_40M.gif",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "NOAA D-RAP",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "ISS & RS-44 POSITION",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=iss&width=600&height=300&mode=M&satid=25544",
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "SEISMIC ACTIVITY",
     "https://ds.iris.edu/seismon/views/eveday_big//imgs/topMap.eveday_big.gif",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "CQ ZONE",
@@ -120,13 +116,11 @@ const aIMG = [
     "https://www.mapability.com/ei8ic/maps/CQ_Zones_01.png",
     "https://www.mapability.com/ei8ic/maps/CQ_Zones_03.png",
     "https://www.mapability.com/ei8ic/maps/CQ_Zones_07.png",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "ITU ZONE",
     "https://www.qsl.net/ei8ic/maps/itu-zone.gif",
     "https://www.mapability.com/ei8ic/maps/ITU_Zones_ARRL_05.png",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
     "https://www.mapability.com/ei8ic/maps/ITU_Zones_ARRL_03.png",
     "https://www.mapability.com/ei8ic/maps/ITU_Zones_ARRL_07.png",
   ],
@@ -136,23 +130,19 @@ const aIMG = [
     "https://www.mapability.com/ei8ic/maps/grid_locator_world_1000x500.png",
     "https://www.mapability.com/ei8ic/maps/grid_locator_great_gircle_washington.png",
     "https://www.mapability.com/ei8ic/maps/grid_locator_orthographic_washington.png",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   
   [
     "GREY LINE",
     "https://www.timeanddate.com/scripts/sunmap.php?iso=now",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "MUF / FOF2",
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   [
     "10M PROPAGATION", 
     "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG",
-    "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
   
   [
@@ -166,7 +156,6 @@ const aIMG = [
   "https://www.hamqsl.com/solarglobe.php",
   "https://www.hamqsl.com/moonglobe.php",
   "https://www.hamqsl.com/solarsystem.php",
-  "https://media.licdn.com/dms/image/C5603AQGGlcsxupBEFw/profile-displayphoto-shrink_200_200/0/1563965350301?e=2147483647&v=beta&t=yJRA1-zXvfWe92S7fooutUxrN_LSQ94DcrVDW2W6-Ds",
   ],
 ];
 
